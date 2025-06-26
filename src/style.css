@@ -1,0 +1,19 @@
+body{
+	font-size: 30px;
+}
+
+div{
+	margin-top: 20px;
+}
+
+select{
+	font-size: 20px;
+	padding: 20px;
+}
+
+element.style {
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	height: 200px;
+}
